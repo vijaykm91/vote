@@ -1,9 +1,9 @@
 vote:
   replicaCount: 2
   image:
-    repository: initcron/initcron
+    repository: vijaykm91/vote
     pullPolicy: IfNotPresent
-    tag: 1065b15
+    tag: 11a497d
   imagePullSecrets: []
   nameOverride: ""
   fullnameOverride: ""
