@@ -3,7 +3,7 @@ vote:
   image:
     repository: vijaykm91/vote
     pullPolicy: IfNotPresent
-    tag: 11a497d
+    tag: 0a47995
   imagePullSecrets: []
   nameOverride: ""
   fullnameOverride: ""
